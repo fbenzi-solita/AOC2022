@@ -1,0 +1,1 @@
+This is a dump of my solutions to advent of code 2022. They are by all means not the optimal solutions, nor are they the most efficient or prettiest. They are just the first solution that came in mind to me
